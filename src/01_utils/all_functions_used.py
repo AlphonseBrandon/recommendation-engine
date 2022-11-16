@@ -46,7 +46,3 @@ def save_cleaned_data():
 
 
 
-load_the_movie_dataset()
-remove_nul_values_from_data()
-create_clean_data()
-save_cleaned_data()
