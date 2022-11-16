@@ -57,7 +57,7 @@ def load_cleaned_data():
     path_to_data = 'D:/github-repos/ml-based-recommendation-engine-project/data/02_intermediate/movies_data.csv'
     data = pd.read_csv(path_to_data)
     
-def create_a_count_matrix(data):
+def create_a_count_matrix():
     '''This function converts the data into numerical matrices'''
     global count_matrix, cv
     cv = CountVectorizer()
