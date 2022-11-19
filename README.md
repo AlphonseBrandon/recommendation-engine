@@ -10,6 +10,8 @@ Think of Netflix, YouTube. How do they know you would enjoy watching a  specific
 
 Implement a content based filtering algorthing which recommends a movie to a user based on simirlar charateristics in related movies using cosine similarity
 
+![1668888407010](image/README/1668888407010.png)
+
 ### Methods Used
 
 * Inferential Statistics
